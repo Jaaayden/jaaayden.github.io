@@ -20,7 +20,7 @@ const FeatureList = [
       ⚠️ Decode with base64 <br />
       💬 Wechat = enNkenli <br />
       {/* <a herf="mailto:shenmiyouxiang@gamil.com">Email : mailto:shenmiyouxiang@gmail.com</a> <br /> */}
-      ✉️ Email : shenmiyouxiang@gmail.com
+      ✉️ Email : x@zengxud.top
       </>
     ),
   },
