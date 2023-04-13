@@ -10,7 +10,6 @@ I had a pleasant trip to Wukang Road and was amazed by the abundance of coffee s
 
 ![20230411-DSC04105](assets/20230411-DSC04105.jpg)
 <!--truncate-->
-![20230411-IMG_2011](assets/20230411-IMG_2011.jpeg)
 
 ![20230411-DSC04037](assets/20230411-DSC04037.jpg)
 
@@ -21,3 +20,5 @@ I had a pleasant trip to Wukang Road and was amazed by the abundance of coffee s
 ![20230411-DSC04049](assets/20230411-DSC04049.jpg)
 
 ![20230411-DSC04100](assets/20230411-DSC04100.jpg)
+
+![20230411-IMG_2011](assets/20230411-IMG_2011.jpeg)
