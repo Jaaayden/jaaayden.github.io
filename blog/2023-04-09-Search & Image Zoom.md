@@ -10,6 +10,6 @@ I'm pleased to inform you that this website supports both **searching** ~~and **
 
 :::caution
 
-Due to some problem, the image zooming feature is temporarily disabled. I will fix it as soon as possible.  
+Due to some problems, the image zooming feature is temporarily disabled. I will fix it as soon as possible.  
 
 :::
