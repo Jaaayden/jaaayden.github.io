@@ -18,4 +18,4 @@ Furthermore, I would like to share with you all a quote by Lu Xun that Dr.Gao me
 
 This resonates with me deeply as well. **We share the same aspiration.**
 
-![A7A888A8-1545-4AF0-A707-F28D12FCDFCE_1_201_a](assets/A7A888A8-1545-4AF0-A707-F28D12FCDFCE_1_201_a.jpg)
+![](assets/A7A888A8-1545-4AF0-A707-F28D12FCDFCE_1_201_a.jpg)

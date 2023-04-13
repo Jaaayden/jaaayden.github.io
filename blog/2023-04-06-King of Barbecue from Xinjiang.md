@@ -12,10 +12,10 @@ It seems like the only day I can take a break from academic and have a pleasant 
 
 Already counting down the days until next Thursday.
 
-![IMG_1969](assets/IMG_1969.jpeg)
+![](assets/IMG_1969.jpeg)
 
 <!--truncate-->
 
-![IMG_1966](assets/IMG_1966.jpeg)
+![](assets/IMG_1966.jpeg)
 
-![IMG_1965](assets/IMG_1965.jpeg)
+![](assets/IMG_1965.jpeg)
