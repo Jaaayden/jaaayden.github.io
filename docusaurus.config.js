@@ -35,13 +35,6 @@ const config = {
 
   presets: [
     [
-      // '@docusaurus/preset-classic',
-      // {
-      //   gtag: {
-      //     trackingID: 'G-DL9GDTKSZE',
-      //     anonymizeIP: true,
-      //   },
-      // },
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
@@ -69,16 +62,16 @@ const config = {
       }),
     ],
   ],
-  // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
-  plugins: [
-    'plugin-image-zoom',
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        language: ["en", "zh"],
-      },
-    ],
-  ],
+
+  // plugins: [
+  //   'plugin-image-zoom',
+  //   [
+  //     require.resolve("@easyops-cn/docusaurus-search-local"),
+  //     {
+  //       language: ["en", "zh"],
+  //     },
+  //   ],
+  // ],
 
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
