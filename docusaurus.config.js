@@ -35,16 +35,20 @@ const config = {
 
   presets: [
     [
+      // '@docusaurus/preset-classic',
+      // {
+      //   gtag: {
+      //     trackingID: 'G-DL9GDTKSZE',
+      //     anonymizeIP: true,
+      //   },
+      // },
       '@docusaurus/preset-classic',
-      {
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
         gtag: {
           trackingID: 'G-DL9GDTKSZE',
           anonymizeIP: true,
         },
-      },
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
