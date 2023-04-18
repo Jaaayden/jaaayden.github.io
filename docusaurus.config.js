@@ -124,7 +124,7 @@ const config = {
           {
             title: 'Tools',
             items: [
-              {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
+              {label: 'JaydenGPT', href: 'https://chat.zengxud.top/',},
               {label: 'RSSHub', href: 'https://rss.zengxud.top/',},
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
             ],

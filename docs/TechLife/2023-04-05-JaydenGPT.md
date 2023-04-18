@@ -10,7 +10,7 @@ Let's get started.
 
 ## Quickly start
 
-1. Please visit this website: [gpt.zengxud.top](https://gpt.zengxud.top)
+1. Please visit this website: [chat.zengxud.top](https://chat.zengxud.top)
 
 2. Click the "Settings" button located in the lower left corner of the interface.
 
