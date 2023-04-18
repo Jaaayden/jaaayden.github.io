@@ -133,6 +133,7 @@ const config = {
             title: 'More',
             items: [
               {label: 'GitHub', href: 'https://github.com/Jaaayden',},
+              {label: 'RSS', href: 'https://zengxud.top/blog/rss.xml',},
               {label: 'Friends', to: '/friends',},
             ],
           },
