@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-04-12T00:00:00.000Z</updated>
+    <updated>2023-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gongqing Forest Park]]></title>
+        <id>https://zengxud.top/blog/Gongqing Forest Park</id>
+        <link href="https://zengxud.top/blog/Gongqing Forest Park"/>
+        <updated>2023-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nice trip to Gongqing Forest Park with my friends. It's a beautiful place with lots of trees and flowers. We had a great time there.]]></summary>
+        <content type="html"><![CDATA[<p>Nice trip to Gongqing Forest Park with my friends. It's a beautiful place with lots of trees and flowers. We had a great time there.</p><p><img loading="lazy" src="/assets/images/20230415-DSC04214-2c22b5e433cb12605ea8b939d49bbd78.jpg" width="5284" height="3523" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/20230415-DSC04266-c869988e989906b83e2865fc36bd44da.jpg" width="4196" height="2797" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04267-13245c6776c2556956c0bc02c7ac0a8c.jpg" width="2566" height="1711" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04269-f5d474cf5b9d554f5ad21cd19f1fe2f1.jpg" width="5261" height="3507" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04275-e4d03a4d2986f3329d7d3dcc381d4f5b.jpg" width="4505" height="3003" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04217-1fc62f7d25182c6e7c356233c642fcbd.jpg" width="5350" height="3567" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04285-6562270242482dfd99aa467b84d93a44.jpg" width="6000" height="4000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04295-b51b3ab10ea238262c3c02314c454b46.jpg" width="4000" height="6000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04297-710f15dcfe330430a1f6f499130d387d.jpg" width="6000" height="4000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04299-7565d25847d21385f86bf5926a96e100.jpg" width="4000" height="6000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04302-b34e2c62653f2ebf28dc31450682811b.jpg" width="3889" height="5833" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04303-042ced3a7dd331f4fc4af72e51e68147.jpg" width="5601" height="3734" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04379-0c3ba5453121f8183a2fd7ad7a6b9bb3.jpg" width="5572" height="3715" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04402-6f9949228ff034e2a317c2caa285b072.jpg" width="6000" height="4000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20230415-DSC04406-a72cbab89aa40af128877805d8f3b111.jpg" width="3711" height="5567" class="img_ev3q"></p><video width="100%" controls="" src="/video/drone.mov"></video>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="travel" term="travel"/>
+        <category label="photo" term="photo"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Visit to Wukang Road]]></title>
         <id>https://zengxud.top/blog/A Visit to Wukang Road</id>
