@@ -4,10 +4,19 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[AI-Powered Law Assistant]]></title>
+            <link>https://zengxud.top/blog/AI-Powered Law Assistant</link>
+            <guid>https://zengxud.top/blog/AI-Powered Law Assistant</guid>
+            <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The AI-Powered Law Assistant is available on this website. It is powered by AI and is able to answer legal questions. Have a try!]]></description>
+            <content:encoded><![CDATA[<p>The <a href="https://law.zengxud.top" target="_blank" rel="noopener noreferrer">AI-Powered Law Assistant</a> is available on this website. It is powered by AI and is able to answer legal questions. Have a try!</p>]]></content:encoded>
+            <category>tool</category>
+        </item>
         <item>
             <title><![CDATA[The Bund]]></title>
             <link>https://zengxud.top/blog/The Bund</link>
@@ -15,7 +24,7 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[The Bund is a place where you can both see the old and new Shanghai. Don's miss it if you are in Shanghai.]]></description>
             <content:encoded><![CDATA[<p>The Bund is a place where you can both see the old and new Shanghai. Don's miss it if you are in Shanghai.</p><p><img loading="lazy" src="/assets/images/IMG_2172-2ac462ae7807c558458350330eeb6457.jpeg" width="4032" height="3024" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/IMG_2196-312d88bf5c591d35b980610268c5458a.jpeg" width="2823" height="3764" class="img_ev3q">
-<img loading="lazy" src="/assets/images/IMG_2168-0f6e7fde1965904953ab508f1db4e926.jpeg" width="3024" height="4032" class="img_ev3q">
+<img loading="lazy" src="/assets/images/IMG_2176-6e7dc899b6bb67bc6e23139ae5dd0765.jpeg" width="3024" height="4032" class="img_ev3q">
 <img loading="lazy" src="/assets/images/IMG_2193-5e3836d99eb0c16dfb1d629897c5861c.jpeg" width="4032" height="3024" class="img_ev3q">
 <img loading="lazy" src="/assets/images/IMG_2168-0f6e7fde1965904953ab508f1db4e926.jpeg" width="3024" height="4032" class="img_ev3q"></p>]]></content:encoded>
             <category>travel</category>
@@ -123,6 +132,15 @@
             <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello! It's great to meet you here.]]></description>
             <content:encoded><![CDATA[<p>Hello! It's great to meet you here.</p><p>This is <strong>Jayden's blog</strong> where I'll be sharing:</p><ul><li>My recent updates</li><li><strong>Some interesting observations</strong></li><li><strong>Photos from my recent experiences</strong></li><li><strong>Insights into my tech life</strong></li></ul><p>And more...</p><p>I hope you enjoy reading it. If you have any questions or suggestions, <strong>feel free</strong> to let me know.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Propagation of Uncertainty Calculator]]></title>
+            <link>https://zengxud.top/blog/Propagation of Uncertainty Calculator</link>
+            <guid>https://zengxud.top/blog/Propagation of Uncertainty Calculator</guid>
+            <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Propagation of Uncertainty Calculator is available. Have a try!]]></description>
+            <content:encoded><![CDATA[<p><a href="https://zengxud.top/Propagation-of-Uncertainty-Calculator/" target="_blank" rel="noopener noreferrer">Propagation of Uncertainty Calculator</a> is available. Have a try!</p>]]></content:encoded>
+            <category>tool</category>
         </item>
     </channel>
 </rss>
