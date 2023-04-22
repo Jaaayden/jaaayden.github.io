@@ -19,6 +19,7 @@
             <uri>https://github.com/Jaaayden</uri>
         </author>
         <category label="tool" term="tool"/>
+        <category label="website" term="website"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Bund]]></title>
@@ -188,5 +189,6 @@
             <uri>https://github.com/Jaaayden</uri>
         </author>
         <category label="tool" term="tool"/>
+        <category label="website" term="website"/>
     </entry>
 </feed>
