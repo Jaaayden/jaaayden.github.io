@@ -108,6 +108,7 @@ const config = {
               {label: 'RSSHub', href: 'https://rss.zengxud.top/',},
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
               {label: 'Law Assistant', href: 'https://law.zengxud.top',},
+              {label: 'Alist', href: 'https://pan.zengxud.top',},
             ]
           },
         ],
@@ -129,6 +130,7 @@ const config = {
               {label: 'RSSHub', href: 'https://rss.zengxud.top/',},
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
               {label: 'Law Assistant', href: 'https://law.zengxud.top',},
+              {label: 'Alist', href: 'https://pan.zengxud.top',},
             ],
           },
           {
