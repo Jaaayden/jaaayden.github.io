@@ -6,9 +6,9 @@ enableComments: true # for Gisqus
 tags: [delicacy, photo]
 ---
 
-Late April is so amazing for a gastronome with lot's of delicacies. The Guizhou food is authentic and the atmosphere in the barbeque is excellent and impressive.
+Late April is so amazing for a gastronome with lots of delicacies. The Guizhou food is authentic and the atmosphere in the barbeque is excellent and impressive.
 
-And @skywalker, keey away from the steamed fish head with chopped chili the next time, plz!
+And @skywalker, keep away from the steamed fish head with chopped chili the next time, plz!
 
 ![](assets/IMG_2254.jpeg)
 ![](assets/IMG_2255.jpeg)
