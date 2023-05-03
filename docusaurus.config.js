@@ -82,9 +82,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       announcementBar: {
-        id: 'support_us',
+        id: 'New',
         content:
-          '<a target="_blank" rel="noopener noreferrer" href="https://zengxud.top/docs/TechLife/2023-04-05-JaydenGPT">JaydenGPT</a> and <a target="_blank" rel="noopener noreferrer" href="https://zengxud.top/docs/TechLife/2023-04-06-RSSHub">self-host RSSHub</a> is avaliable.',
+          '<a target="_blank" rel="noopener noreferrer" href="https://pan.zengxud.top">Alist</a> is avaliable.',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
