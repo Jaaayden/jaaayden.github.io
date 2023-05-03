@@ -11,6 +11,8 @@ Late April is so amazing for a gastronome with lots of delicacies. The Guizhou f
 And @skywalker, keep away from the steamed fish head with chopped chili the next time, plz!
 
 ![](assets/IMG_2254.jpeg)
+<!--truncate-->
+
 ![](assets/IMG_2255.jpeg)
 ![](assets/IMG_2256.jpeg)
 ![](assets/IMG_2258.jpeg)
