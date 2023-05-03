@@ -63,15 +63,14 @@ const config = {
     ],
   ],
 
-  // plugins: [
-  //   'plugin-image-zoom',
-  //   [
-  //     require.resolve("@easyops-cn/docusaurus-search-local"),
-  //     {
-  //       language: ["en", "zh"],
-  //     },
-  //   ],
-  // ],
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        language: ["en", "zh"],
+      },
+    ],
+  ],
 
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
