@@ -34,4 +34,4 @@ And @skywalker, keep away from the steamed fish head with chopped chili the next
 ![](assets/IMG_2478.jpeg)
 ![](assets/IMG_2480.jpeg)
 
-<video width="100%" controls src="/video/20230503_atmosphere.mov"></video>
+<video width="100%" controls src="/video/20230503_atmosphere.mp4"></video>
