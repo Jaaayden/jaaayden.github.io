@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-05-03T00:00:00.000Z</updated>
+    <updated>2023-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bitwarden]]></title>
+        <id>https://zengxud.top/blog/Bitwarden</id>
+        <link href="https://zengxud.top/blog/Bitwarden"/>
+        <updated>2023-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm appreciated to share with you that Bitwarden is available on this website.]]></summary>
+        <content type="html"><![CDATA[<p>I'm appreciated to share with you that <a href="https://bitwarden.zengxud.top" target="_blank" rel="noopener noreferrer">Bitwarden</a> is available on this website. </p><p>Bitwarden is a freemium open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a CLI.</p><p>Give it a try! <a href="https://bitwarden.zengxud.top" target="_blank" rel="noopener noreferrer">Click me.</a></p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="tool" term="tool"/>
+        <category label="website" term="website"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recent delicacies]]></title>
         <id>https://zengxud.top/blog/Recent delicacies</id>

@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Wed, 03 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Bitwarden]]></title>
+            <link>https://zengxud.top/blog/Bitwarden</link>
+            <guid>https://zengxud.top/blog/Bitwarden</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm appreciated to share with you that Bitwarden is available on this website.]]></description>
+            <content:encoded><![CDATA[<p>I'm appreciated to share with you that <a href="https://bitwarden.zengxud.top" target="_blank" rel="noopener noreferrer">Bitwarden</a> is available on this website. </p><p>Bitwarden is a freemium open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a CLI.</p><p>Give it a try! <a href="https://bitwarden.zengxud.top" target="_blank" rel="noopener noreferrer">Click me.</a></p>]]></content:encoded>
+            <category>tool</category>
+            <category>website</category>
+        </item>
         <item>
             <title><![CDATA[Recent delicacies]]></title>
             <link>https://zengxud.top/blog/Recent delicacies</link>
