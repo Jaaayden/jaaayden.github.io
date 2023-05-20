@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-05-18T00:00:00.000Z</updated>
+    <updated>2023-05-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kill the animations of macOS]]></title>
+        <id>https://zengxud.top/blog/Kill the animations of macOS</id>
+        <link href="https://zengxud.top/blog/Kill the animations of macOS"/>
+        <updated>2023-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's really exciting for me to find the animations of macOS can be disabled in the terminal.]]></summary>
+        <content type="html"><![CDATA[<p>It's really exciting for me to find the animations of macOS can be disabled in the terminal.</p><p>After giving it a try, it is what I think macOS should be.</p><p>If you wanna have a try, here is a link you can refer to:<a href="https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x" target="_blank" rel="noopener noreferrer">https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x</a>.</p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="trick" term="trick"/>
+        <category label="macOS" term="macOS"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwarden]]></title>
         <id>https://zengxud.top/blog/Bitwarden</id>

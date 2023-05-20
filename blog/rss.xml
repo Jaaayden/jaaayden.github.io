@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Thu, 18 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Kill the animations of macOS]]></title>
+            <link>https://zengxud.top/blog/Kill the animations of macOS</link>
+            <guid>https://zengxud.top/blog/Kill the animations of macOS</guid>
+            <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's really exciting for me to find the animations of macOS can be disabled in the terminal.]]></description>
+            <content:encoded><![CDATA[<p>It's really exciting for me to find the animations of macOS can be disabled in the terminal.</p><p>After giving it a try, it is what I think macOS should be.</p><p>If you wanna have a try, here is a link you can refer to:<a href="https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x" target="_blank" rel="noopener noreferrer">https://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x</a>.</p>]]></content:encoded>
+            <category>trick</category>
+            <category>macOS</category>
+        </item>
         <item>
             <title><![CDATA[Bitwarden]]></title>
             <link>https://zengxud.top/blog/Bitwarden</link>
