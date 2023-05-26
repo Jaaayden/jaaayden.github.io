@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-05-20T00:00:00.000Z</updated>
+    <updated>2023-05-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My 23rd Birthday]]></title>
+        <id>https://zengxud.top/blog/My 23rd Birthday</id>
+        <link href="https://zengxud.top/blog/My 23rd Birthday"/>
+        <updated>2023-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first time to Qiantan Shanghai on my 23rd birthday.]]></summary>
+        <content type="html"><![CDATA[<p>The first time to Qiantan Shanghai on my 23rd birthday. </p><p>Waked up early to collect X-Ray diffraction data in SSRF. Maybe it's the third time I go to SSRF, wish the data could be processed without a hitch.</p><p>Take a break and it came dinner time. It's the second time I heard that Guizhou cuisine, especially the sour fish, tasted like the <strong>soak soup</strong>😅. And the <strong>Houttuynia cordata</strong> brought me back to my life in Western China.</p><p>After dinner, we have a walk to the Huangpu River, the wind is soft, but unfortunately, it's going to rain...</p><p>Nice day!</p><p>Thank @chenj for the egg tart, meat floss shellfish, and wife cake, it's a really special gift.</p><p>Thank @yefeng for your greeting, though the wrong time.</p><p>Thank my family and all my friends for the help in my life.</p><p><img loading="lazy" src="/assets/images/IMG_2665-c1d24b1d61f7fe5f843c505c8b39dd0e.jpeg" width="4032" height="3024" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/IMG_2667-c566e6a6b882aff1dc7cd727b1b6efd3.jpeg" width="3024" height="4032" class="img_ev3q">
+<img loading="lazy" src="/assets/images/IMG_2668-c8ea22913b57159b8226c2d673468140.jpeg" width="4032" height="3024" class="img_ev3q">
+<img loading="lazy" src="/assets/images/IMG_2669-efcf448a7008ac584a4849f9ed38a830.jpeg" width="3024" height="4032" class="img_ev3q">
+<img loading="lazy" src="/assets/images/IMG_2670-9dab27dbe195490804fa3aa89dee3ba0.jpeg" width="3024" height="4032" class="img_ev3q">
+<img loading="lazy" src="/assets/images/IMG_2671-ceaa3e264240dbb919c0be42d5cfd871.jpeg" width="3024" height="4032" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="life" term="life"/>
+        <category label="delicacy" term="delicacy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kill the animations of macOS]]></title>
         <id>https://zengxud.top/blog/Kill the animations of macOS</id>
