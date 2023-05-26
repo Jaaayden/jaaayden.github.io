@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Qwerty Learner]]></title>
+            <link>https://zengxud.top/blog/Qwerty Learner</link>
+            <guid>https://zengxud.top/blog/Qwerty Learner</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's really confusing for the first time to type English words on the keyboard cuz it's really different from the Chinese input method.]]></description>
+            <content:encoded><![CDATA[<p>It's really confusing for the first time to type English words on the keyboard cuz it's really different from the Chinese input method. </p><p>Here comes the <a href="https://qwerty.kaiyi.cool" target="_blank" rel="noopener noreferrer">Qwerty Learner</a>, a really useful tool for learning English methods, and for non-native English speakers, it can also act as software to recite words.</p><p>Qwerty Learner is <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noopener noreferrer">open source</a> and maybe I will deploy it on this website one day.</p>]]></content:encoded>
+            <category>website</category>
+            <category>tool</category>
+        </item>
         <item>
             <title><![CDATA[My 23rd Birthday]]></title>
             <link>https://zengxud.top/blog/My 23rd Birthday</link>
@@ -21,6 +31,7 @@
 <img loading="lazy" src="/assets/images/IMG_2671-ceaa3e264240dbb919c0be42d5cfd871.jpeg" width="3024" height="4032" class="img_ev3q"></p>]]></content:encoded>
             <category>life</category>
             <category>delicacy</category>
+            <category>photo</category>
         </item>
         <item>
             <title><![CDATA[Kill the animations of macOS]]></title>
