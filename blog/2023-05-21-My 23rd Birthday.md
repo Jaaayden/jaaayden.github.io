@@ -3,7 +3,7 @@ slug: My 23rd Birthday
 title: My 23rd Birthday
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [life, delicacy]
+tags: [life, delicacy, photo]
 ---
 
 The first time to Qiantan Shanghai on my 23rd birthday. 
