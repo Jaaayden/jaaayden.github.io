@@ -108,7 +108,8 @@ const config = {
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
               {label: 'Law Assistant', href: 'https://law.zengxud.top',},
               {label: 'Alist', href: 'http://pan.zengxud.top',},
-              {label: 'bitwarden', href: 'http://bitwarden.zengxud.top',},
+              {label: 'Bitwarden', href: 'http://bitwarden.zengxud.top',},
+              {label: 'Link Shortener', href: 'http://sl.zengxud.top',},
             ]
           },
         ],
@@ -131,7 +132,8 @@ const config = {
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
               {label: 'Law Assistant', href: 'https://law.zengxud.top',},
               {label: 'Alist', href: 'http://pan.zengxud.top',},
-              {label: 'bitwarden', href: 'http://bitwarden.zengxud.top',},
+              {label: 'Bitwarden', href: 'http://bitwarden.zengxud.top',},
+              {label: 'Link Shortener', href: 'http://sl.zengxud.top',},
             ],
           },
           {
