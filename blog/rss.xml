@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Sat, 27 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[SubConverter]]></title>
+            <link>https://zengxud.top/blog/SubConverter</link>
+            <guid>https://zengxud.top/blog/SubConverter</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's happy to share with you guys that SubConverter is deployed on this website.]]></description>
+            <content:encoded><![CDATA[<p>It's happy to share with you guys that <strong>SubConverter</strong> is deployed on this website.</p><p>There is no need to worry about the data leakage.</p><p>I'll be appreciated if this tool is useful for you.</p><p>You can try it on <a href="https://subconvert.zengxud.top" target="_blank" rel="noopener noreferrer"><strong>subconvert.zengxud.top</strong></a>.</p>]]></content:encoded>
+            <category>tool</category>
+            <category>website</category>
+        </item>
         <item>
             <title><![CDATA[Link Shortener]]></title>
             <link>https://zengxud.top/blog/Link Shortener</link>

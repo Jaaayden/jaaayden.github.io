@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-05-27T00:00:00.000Z</updated>
+    <updated>2023-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SubConverter]]></title>
+        <id>https://zengxud.top/blog/SubConverter</id>
+        <link href="https://zengxud.top/blog/SubConverter"/>
+        <updated>2023-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's happy to share with you guys that SubConverter is deployed on this website.]]></summary>
+        <content type="html"><![CDATA[<p>It's happy to share with you guys that <strong>SubConverter</strong> is deployed on this website.</p><p>There is no need to worry about the data leakage.</p><p>I'll be appreciated if this tool is useful for you.</p><p>You can try it on <a href="https://subconvert.zengxud.top" target="_blank" rel="noopener noreferrer"><strong>subconvert.zengxud.top</strong></a>.</p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="tool" term="tool"/>
+        <category label="website" term="website"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Link Shortener]]></title>
         <id>https://zengxud.top/blog/Link Shortener</id>
