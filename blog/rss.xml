@@ -4,10 +4,19 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Sun, 28 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[iA Presenter]]></title>
+            <link>https://zengxud.top/blog/iA Presenter</link>
+            <guid>https://zengxud.top/blog/iA Presenter</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you are a markdown syntax user, I'm sure you would like to try iA Presenter, which can transcribe your markdown documents to a slide.]]></description>
+            <content:encoded><![CDATA[<p>If you are a markdown syntax user, I'm sure you would like to try <a href="https://ia.net" target="_blank" rel="noopener noreferrer"><strong>iA Presenter</strong></a>, which can transcribe your markdown documents to a slide.</p><p>A video is made by <a href="https://www.bilibili.com/video/BV1jh4y1s7jS/" target="_blank" rel="noopener noreferrer"><strong>Topbook</strong></a> previously and it's a good choice to give it a overview with it.</p><p>Besides, happy Children's Day!</p>]]></content:encoded>
+            <category>tool</category>
+        </item>
         <item>
             <title><![CDATA[SubConverter]]></title>
             <link>https://zengxud.top/blog/SubConverter</link>

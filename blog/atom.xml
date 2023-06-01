@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-05-28T00:00:00.000Z</updated>
+    <updated>2023-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iA Presenter]]></title>
+        <id>https://zengxud.top/blog/iA Presenter</id>
+        <link href="https://zengxud.top/blog/iA Presenter"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are a markdown syntax user, I'm sure you would like to try iA Presenter, which can transcribe your markdown documents to a slide.]]></summary>
+        <content type="html"><![CDATA[<p>If you are a markdown syntax user, I'm sure you would like to try <a href="https://ia.net" target="_blank" rel="noopener noreferrer"><strong>iA Presenter</strong></a>, which can transcribe your markdown documents to a slide.</p><p>A video is made by <a href="https://www.bilibili.com/video/BV1jh4y1s7jS/" target="_blank" rel="noopener noreferrer"><strong>Topbook</strong></a> previously and it's a good choice to give it a overview with it.</p><p>Besides, happy Children's Day!</p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="tool" term="tool"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SubConverter]]></title>
         <id>https://zengxud.top/blog/SubConverter</id>
