@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "e10f8b583e348853",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b503cb1d9b9658d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320187f8f8996f5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90ecee906ab96fef",
+    "type": "split",
+    "children": [
+      {
+        "id": "634b9d3c90f4c732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915c5b8851384b24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b3ff00ace45371f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a50b5565974eb6d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7f05e94178b02ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3999aef3254fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a24d88409ed21f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "827d9c90b1007801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "182cc61d9296ca8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d30587556b483fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "57513be01bc42a8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "320187f8f8996f5c",
+  "lastOpenFiles": [
+    "blog/2023-06-19-Love Thai.md",
+    "blog/assets/Raw/IMG_2905.jpeg",
+    "blog/assets/Raw/IMG_2907.jpeg",
+    "blog/assets/Raw/IMG_2908.jpeg",
+    "blog/assets/Raw/IMG_2909.jpeg",
+    "blog/assets/Raw/IMG_2911.jpeg",
+    "blog/2023-06-19-Love Thai~.md",
+    "blog/assets/IMG_2907.jpeg",
+    "blog/assets/IMG_2905.jpeg",
+    "blog/assets/IMG_2908.jpeg",
+    "blog/assets/IMG_2911.jpeg",
+    "blog/assets/IMG_2909.jpeg",
+    "blog/2023-04-06-King of Barbecue from Xinjiang.md",
+    "blog/2023-04-10-Lerner Symposium by George Fu Gao.md",
+    "blog/2023-04-12-A Visit to Wukang Road.md",
+    "blog/2023-04-15-Gongqing Forest Park.md",
+    "blog/2023-04-22-AI-Powered Law Assistant.md",
+    "blog/2023-05-28-SubConverter.md",
+    "blog/2023-06-01-iA Presenter.md"
+  ]
+}
