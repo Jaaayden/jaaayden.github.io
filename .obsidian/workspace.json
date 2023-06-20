@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1b503cb1d9b9658d",
+        "id": "736c1aa69499d627",
         "type": "tabs",
         "children": [
           {
-            "id": "320187f8f8996f5c",
+            "id": "beb671f53bf10e83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blog/2023-06-19-Love Thai.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/2023-06-19-Love Thai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/2023-06-19-Love Thai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/2023-06-19-Love Thai.md"
+              }
             }
           },
           {
@@ -146,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320187f8f8996f5c",
+  "active": "beb671f53bf10e83",
   "lastOpenFiles": [
+    "blog/2023-05-03-Recent delicacies.md",
+    "blog/2023-04-23-Alist.md",
+    "blog/2023-06-01-iA Presenter.md",
     "blog/2023-06-19-Love Thai.md",
     "blog/assets/Raw/IMG_2905.jpeg",
     "blog/assets/Raw/IMG_2907.jpeg",
@@ -165,7 +176,6 @@
     "blog/2023-04-12-A Visit to Wukang Road.md",
     "blog/2023-04-15-Gongqing Forest Park.md",
     "blog/2023-04-22-AI-Powered Law Assistant.md",
-    "blog/2023-05-28-SubConverter.md",
-    "blog/2023-06-01-iA Presenter.md"
+    "blog/2023-05-28-SubConverter.md"
   ]
 }
