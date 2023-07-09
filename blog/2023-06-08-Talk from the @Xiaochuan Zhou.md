@@ -6,4 +6,7 @@ enableComments: true # for Gisqus
 tags: [life, photo]
 ---
 
+[]
+
 <!--truncate-->
+
