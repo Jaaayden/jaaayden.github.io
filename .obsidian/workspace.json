@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f0cd230a4625f5",
+        "id": "12aa5ecf6ad6388e",
         "type": "tabs",
         "children": [
           {
-            "id": "617bf220fc8906bb",
+            "id": "1c7fce4cf384c819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-07-06-WAIC.md",
+                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-07-06-WAIC.md",
+                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-07-06-WAIC.md",
+                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-07-06-WAIC.md"
+                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md"
               }
             }
           }
@@ -170,8 +170,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "915c5b8851384b24",
+  "active": "1c7fce4cf384c819",
   "lastOpenFiles": [
+    "blog/2023-07-06-WAIC.md",
     "blog/2023-07-06-WAIC~.md",
     "blog/assets/IMG_3217.jpeg",
     "blog/assets/IMG_3213.jpeg",
@@ -184,7 +185,6 @@
     "blog/assets/IMG_3209.jpeg",
     "blog/assets/IMG_3200.jpeg",
     "blog/2023-07-02-Hi Nanjing.md",
-    "blog/2023-07-06-WAIC.md",
     "blog/2023-06-19-Love Thai.md",
     "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
     "blog/2023-06-11-Happy Valley.md",
