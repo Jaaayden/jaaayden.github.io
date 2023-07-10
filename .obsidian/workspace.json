@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-06-17-东方一串.md",
+                "file": "blog/2023-06-19-Love Thai.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-06-17-东方一串.md",
+                "file": "blog/2023-06-19-Love Thai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-06-17-东方一串.md",
+                "file": "blog/2023-06-19-Love Thai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-06-17-东方一串.md"
+                "file": "blog/2023-06-19-Love Thai.md"
               }
             }
           }
@@ -172,17 +172,23 @@
   },
   "active": "617bf220fc8906bb",
   "lastOpenFiles": [
-    "blog/2023-06-11-Happy Valley.md",
-    "blog/2023-06-17-东方一串.md",
+    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
     "blog/2023-06-19-Love Thai.md",
+    "blog/assets/IMG_2910.jpeg",
+    "blog/2023-06-11-Happy Valley.md",
     "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+    "blog/2023-06-17-东方一串.md",
+    "blog/assets/IMG_2893.jpeg",
+    "blog/assets/IMG_2891.jpeg",
+    "blog/assets/IMG_2892.jpeg",
+    "blog/assets/IMG_2889.jpeg",
+    "blog/assets/IMG_2897.jpeg",
+    "blog/assets/IMG_2890.jpeg",
+    "blog/assets/IMG_2898.jpeg",
+    "blog/assets/IMG_2894.jpeg",
+    "blog/assets/IMG_2896.jpeg",
     "blog/2023-05-21-My 23rd Birthday.md",
-    "blog/assets/IMG_2847.jpeg",
-    "blog/assets/IMG_2911.jpeg",
-    "blog/assets/IMG_2849.jpeg",
     "blog/2023-06-11-Happy Valley~.md",
-    "blog/assets/IMG_2827.jpeg",
-    "blog/assets/IMG_2821.jpeg",
     "static/blog_temp.md",
     "blog/2023-05-03-Recent delicacies.md",
     "blog/2023-05-20-Kill the animations of macOS.md",
@@ -204,11 +210,6 @@
     "build/docs/TechLife/2023-04-06-RSSHub/index.html",
     "build/docs/TechLife/Sync your music with Apple music/index.html",
     "build/docs/TechLife/2023-04-05-JaydenGPT/index.html",
-    "build/img/logo.svg",
-    "build/img/favicon.png",
-    "build/assets/images/IMG_2477-570dc5ca58aa5a37c97fec37acc3e174.jpeg",
-    "build/assets/images/IMG_2468-d5c18929f029f2ae4abd0695ab04a34e.jpeg",
-    "build/assets/images/IMG_2472-84ef648b6e4e43fa9fe643db3a87becd.jpeg",
     "blog/2023-04-23-Alist.md",
     "blog/2023-06-19-Love Thai~.md",
     "blog/2023-04-06-King of Barbecue from Xinjiang.md",
