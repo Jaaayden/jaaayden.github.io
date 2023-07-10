@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+                "file": "blog/2023-06-17-东方一串.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+                "file": "blog/2023-06-17-东方一串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+                "file": "blog/2023-06-17-东方一串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md"
+                "file": "blog/2023-06-17-东方一串.md"
               }
             }
           }
@@ -172,17 +172,25 @@
   },
   "active": "617bf220fc8906bb",
   "lastOpenFiles": [
+    "blog/2023-06-11-Happy Valley.md",
+    "blog/2023-06-17-东方一串.md",
+    "blog/2023-06-19-Love Thai.md",
+    "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+    "blog/2023-05-21-My 23rd Birthday.md",
+    "blog/assets/IMG_2847.jpeg",
+    "blog/assets/IMG_2911.jpeg",
+    "blog/assets/IMG_2849.jpeg",
+    "blog/2023-06-11-Happy Valley~.md",
+    "blog/assets/IMG_2827.jpeg",
+    "blog/assets/IMG_2821.jpeg",
     "static/blog_temp.md",
     "blog/2023-05-03-Recent delicacies.md",
     "blog/2023-05-20-Kill the animations of macOS.md",
-    "blog/2023-05-21-My 23rd Birthday.md",
     "blog/2023-05-26-Qwerty Learner.md",
-    "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
     "blog/2023-05-08-.md",
     "blog/2023-05-27-Link Shortener.md",
     "blog/2023-05-28-SubConverter.md",
     "blog/2023-06-01-iA Presenter.md",
-    "blog/2023-06-19-Love Thai.md",
     "blog/2023-04-03-Propagation of Uncertainty Calculator.md",
     "blog/2023-04-04-Some photos from @benkang.md",
     "blog/2023-04-02-Hi.md",
@@ -201,11 +209,6 @@
     "build/assets/images/IMG_2477-570dc5ca58aa5a37c97fec37acc3e174.jpeg",
     "build/assets/images/IMG_2468-d5c18929f029f2ae4abd0695ab04a34e.jpeg",
     "build/assets/images/IMG_2472-84ef648b6e4e43fa9fe643db3a87becd.jpeg",
-    "build/assets/images/IMG_2471-522ae3c15999083c2df51d3c495affad.jpeg",
-    "build/assets/images/IMG_2478-10b9e73fa07b6380c211007974f157e7.jpeg",
-    "build/assets/images/IMG_2480-a4ce61dd4967f675c5fb1a03b6391548.jpeg",
-    "build/assets/images/IMG_2474-8aacdcebde598862b072fbca1aaf61ec.jpeg",
-    "build/assets/images/IMG_2476-01582a1fd5f3962ef5882320d9926bf9.jpeg",
     "blog/2023-04-23-Alist.md",
     "blog/2023-06-19-Love Thai~.md",
     "blog/2023-04-06-King of Barbecue from Xinjiang.md",
