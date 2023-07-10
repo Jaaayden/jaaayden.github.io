@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-06-19-Love Thai.md",
+                "file": "blog/2023-07-06-WAIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-06-19-Love Thai.md",
+                "file": "blog/2023-07-06-WAIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-06-19-Love Thai.md",
+                "file": "blog/2023-07-06-WAIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-06-19-Love Thai.md"
+                "file": "blog/2023-07-06-WAIC.md"
               }
             }
           }
@@ -170,23 +170,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "617bf220fc8906bb",
+  "active": "915c5b8851384b24",
   "lastOpenFiles": [
-    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+    "blog/2023-07-06-WAIC~.md",
+    "blog/assets/IMG_3217.jpeg",
+    "blog/assets/IMG_3213.jpeg",
+    "blog/assets/IMG_3227.jpeg",
+    "blog/assets/IMG_3245.jpeg",
+    "blog/assets/IMG_3230.jpeg",
+    "blog/assets/IMG_3205.jpeg",
+    "blog/assets/IMG_3222.jpeg",
+    "blog/assets/IMG_3242.jpeg",
+    "blog/assets/IMG_3209.jpeg",
+    "blog/assets/IMG_3200.jpeg",
+    "blog/2023-07-02-Hi Nanjing.md",
+    "blog/2023-07-06-WAIC.md",
     "blog/2023-06-19-Love Thai.md",
-    "blog/assets/IMG_2910.jpeg",
+    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
     "blog/2023-06-11-Happy Valley.md",
     "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
     "blog/2023-06-17-东方一串.md",
-    "blog/assets/IMG_2893.jpeg",
-    "blog/assets/IMG_2891.jpeg",
-    "blog/assets/IMG_2892.jpeg",
-    "blog/assets/IMG_2889.jpeg",
-    "blog/assets/IMG_2897.jpeg",
-    "blog/assets/IMG_2890.jpeg",
-    "blog/assets/IMG_2898.jpeg",
-    "blog/assets/IMG_2894.jpeg",
-    "blog/assets/IMG_2896.jpeg",
     "blog/2023-05-21-My 23rd Birthday.md",
     "blog/2023-06-11-Happy Valley~.md",
     "static/blog_temp.md",
@@ -214,8 +217,6 @@
     "blog/2023-06-19-Love Thai~.md",
     "blog/2023-04-06-King of Barbecue from Xinjiang.md",
     "blog/2023-04-10-Lerner Symposium by George Fu Gao.md",
-    "blog/2023-04-12-A Visit to Wukang Road.md",
-    "blog/2023-04-15-Gongqing Forest Park.md",
-    "blog/2023-04-22-AI-Powered Law Assistant.md"
+    "blog/2023-04-12-A Visit to Wukang Road.md"
   ]
 }
