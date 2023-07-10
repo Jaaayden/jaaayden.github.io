@@ -11,8 +11,12 @@
             "id": "ce3d2ddf3431b3f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md"
+              }
             }
           }
         ]
@@ -164,8 +172,13 @@
   },
   "active": "ce3d2ddf3431b3f0",
   "lastOpenFiles": [
-    "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+    "blog/2023-06-19-Love Thai.md",
+    "blog/2023-07-02-Hi Nanjing.md",
     "blog/2023-07-06-WAIC.md",
+    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+    "blog/2023-06-17-东方一串.md",
+    "blog/2023-06-11-Happy Valley.md",
+    "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
     "blog/2023-07-06-WAIC~.md",
     "blog/assets/IMG_3217.jpeg",
     "blog/assets/IMG_3213.jpeg",
@@ -177,11 +190,6 @@
     "blog/assets/IMG_3242.jpeg",
     "blog/assets/IMG_3209.jpeg",
     "blog/assets/IMG_3200.jpeg",
-    "blog/2023-07-02-Hi Nanjing.md",
-    "blog/2023-06-19-Love Thai.md",
-    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
-    "blog/2023-06-11-Happy Valley.md",
-    "blog/2023-06-17-东方一串.md",
     "blog/2023-05-21-My 23rd Birthday.md",
     "blog/2023-06-11-Happy Valley~.md",
     "static/blog_temp.md",

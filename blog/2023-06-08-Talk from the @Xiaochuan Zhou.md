@@ -12,9 +12,9 @@ Today, we are honored to welcome Xiaochuan Zhou, the Former Governor of the Peop
 
 The talk focuses on Payment Systems and Digital Currency. This is an invaluable opportunity for me to gain insights into global currency regulations. Additionally, Principal Jiang shares his thoughts on the Internationalization of the CNY, which is definitely worth considering.
 
-![IMG_2821](assets/IMG_2821.jpeg)
+![](assets/IMG_2821.jpeg)
 <!--truncate-->
-![IMG_2827](assets/IMG_2827.jpeg)
+![](assets/IMG_2827.jpeg)
 
 
 
