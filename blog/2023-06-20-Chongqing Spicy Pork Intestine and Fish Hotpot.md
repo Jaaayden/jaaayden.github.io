@@ -3,7 +3,7 @@ slug: Chongqing Spicy Pork Intestine and Fish Hotpot
 title: Chongqing Spicy Pork Intestine and Fish Hotpot
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [tool, website, life, delicacy, photo]
+tags: [life, delicacy, photo]
 ---
 
 As a Chongqingese, I've miss the taste of my hometown for a long time.

@@ -3,7 +3,7 @@ slug: Hi Nanjing
 title: Hi Nanjing
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [tool, website, life, delicacy, photo]
+tags: [life, delicacy, photo]
 ---
 A short and busy trip to Nanjing. Who is the special force?
 

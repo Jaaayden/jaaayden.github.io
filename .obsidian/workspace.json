@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+                "file": "blog/2023-07-11-Fire Cloud Delay.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+                "file": "blog/2023-07-11-Fire Cloud Delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+                "file": "blog/2023-07-11-Fire Cloud Delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md"
+                "file": "blog/2023-07-11-Fire Cloud Delay.md"
               }
             }
           }
@@ -170,15 +170,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce3d2ddf3431b3f0",
+  "active": "915c5b8851384b24",
   "lastOpenFiles": [
-    "blog/2023-06-19-Love Thai.md",
-    "blog/2023-07-02-Hi Nanjing.md",
-    "blog/2023-07-06-WAIC.md",
-    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
-    "blog/2023-06-17-东方一串.md",
-    "blog/2023-06-11-Happy Valley.md",
+    "blog/2023-07-11-Fire Cloud Delay~.md",
     "blog/2023-06-08-Talk from the @Xiaochuan Zhou.md",
+    "blog/2023-06-01-iA Presenter.md",
+    "blog/2023-06-11-Happy Valley.md",
+    "blog/2023-06-17-东方一串.md",
+    "blog/2023-06-19-Love Thai.md",
+    "blog/2023-06-20-Chongqing Spicy Pork Intestine and Fish Hotpot.md",
+    "blog/2023-07-06-WAIC.md",
+    "blog/2023-07-02-Hi Nanjing.md",
+    "blog/2023-07-11-Fire Cloud Delay.md",
     "blog/2023-07-06-WAIC~.md",
     "blog/assets/IMG_3217.jpeg",
     "blog/assets/IMG_3213.jpeg",
@@ -199,7 +202,6 @@
     "blog/2023-05-08-.md",
     "blog/2023-05-27-Link Shortener.md",
     "blog/2023-05-28-SubConverter.md",
-    "blog/2023-06-01-iA Presenter.md",
     "blog/2023-04-03-Propagation of Uncertainty Calculator.md",
     "blog/2023-04-04-Some photos from @benkang.md",
     "blog/2023-04-02-Hi.md",
@@ -215,8 +217,6 @@
     "build/docs/TechLife/2023-04-05-JaydenGPT/index.html",
     "blog/2023-04-23-Alist.md",
     "blog/2023-06-19-Love Thai~.md",
-    "blog/2023-04-06-King of Barbecue from Xinjiang.md",
-    "blog/2023-04-10-Lerner Symposium by George Fu Gao.md",
-    "blog/2023-04-12-A Visit to Wukang Road.md"
+    "blog/2023-04-06-King of Barbecue from Xinjiang.md"
   ]
 }
