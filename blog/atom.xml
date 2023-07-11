@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-07-06T00:00:00.000Z</updated>
+    <updated>2023-07-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fire Cloud Delay]]></title>
+        <id>https://zengxud.top/blog/Fire Cloud Delay</id>
+        <link href="https://zengxud.top/blog/Fire Cloud Delay"/>
+        <updated>2023-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have never seen a fire cloud delay before my graduated student life at ShanghaiTech Univ, so lucky for me to record this gorgeous scene and share it with you.]]></summary>
+        <content type="html"><![CDATA[<p>I have never seen a fire cloud delay before my graduated student life at ShanghaiTech Univ, so lucky for me to record this gorgeous scene and share it with you.</p><iframe src="//player.bilibili.com/player.html?aid=743267597&amp;bvid=BV1hk4y1P779&amp;cid=1192492124&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500" width="750"> </iframe>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="life" term="life"/>
+        <category label="photo" term="photo"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAIC]]></title>
         <id>https://zengxud.top/blog/WAIC</id>
@@ -27,8 +41,6 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="tool" term="tool"/>
-        <category label="website" term="website"/>
         <category label="life" term="life"/>
         <category label="delicacy" term="delicacy"/>
         <category label="photo" term="photo"/>
@@ -73,8 +85,6 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="tool" term="tool"/>
-        <category label="website" term="website"/>
         <category label="life" term="life"/>
         <category label="delicacy" term="delicacy"/>
         <category label="photo" term="photo"/>
@@ -90,8 +100,6 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="tool" term="tool"/>
-        <category label="website" term="website"/>
         <category label="life" term="life"/>
         <category label="delicacy" term="delicacy"/>
         <category label="photo" term="photo"/>
@@ -133,8 +141,6 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="tool" term="tool"/>
-        <category label="website" term="website"/>
         <category label="life" term="life"/>
         <category label="delicacy" term="delicacy"/>
         <category label="photo" term="photo"/>
@@ -150,10 +156,7 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="tool" term="tool"/>
-        <category label="website" term="website"/>
         <category label="life" term="life"/>
-        <category label="delicacy" term="delicacy"/>
         <category label="photo" term="photo"/>
     </entry>
     <entry>
