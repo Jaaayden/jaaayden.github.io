@@ -55,6 +55,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Jaaayden/Jaaayden.github.io/tree/main/',
+            blogSidebarTitle: '全部博文',
+            blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
